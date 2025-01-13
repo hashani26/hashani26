@@ -1,6 +1,7 @@
 ### Hi There 👋
 
-- 👩‍💻 I am a frontend senior software engineer by profession at [SmartKarma](https://www.smartkarma.com/home/), Singapore.
+- 👩‍💻 I am a Senior Software Engineer at [Incognito Software Systems](https://www.incognito.com/), Canada
+- 💻 I worked as a frontend software engineer at [SmartKarma](https://www.smartkarma.com/home/), Singapore.
 - 🏁 I worked as a frontend developer for [Asian Logic](https://www.asianlogic.com/) ( Dafabet ).
 - 💻 BSc (Hons) Computer Science from University of Greenwich.
 
